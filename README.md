@@ -1,4 +1,13 @@
-## Hi there 👋
+## Juliano Giusti
+
+Backend Python developer with experience designing and maintaining production-grade APIs and backend services.
+
+Strong background in REST APIs, system integrations, asynchronous processing, geospatial data handling, and database-driven applications.
+
+---
+
+### Core Stack
+Python, Flask, REST APIs, PostgreSQL, AWS, Docker
 
 <!--
 **julianogiusti/julianogiusti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
